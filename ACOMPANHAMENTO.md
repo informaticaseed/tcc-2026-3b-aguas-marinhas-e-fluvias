@@ -1,7 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Águass Marinhas e fluvias
+**Turma:** 3B
 
 ---
 
@@ -11,9 +10,18 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| João  | Desenvolvimento do banco de dados e backend |
+| Hanna | TCC impresso: metodologia, referencial teórico, cronograma, levantamento de dados e casos de uso|
+| Murylo | Realizar entrevista e responsável pelo grupo - Desenvolvimento de slide|
+| Mattheo | Iniciar o protótipo: comprar as peças e montar    |
+| Carlos | Desenvolvimento do frontend, landingpage e manual|
+
+Backend:
+- Iniciar o protótipo: comprar as peças
+- Relatório: metodologia, referencial teórico, cronograma, levantamento de dados e casos de uso
+- Realizar entrevista
+- Desenvolvimento do site: - desenvolvimento do banco de dados, backend, frontend, landingpage, manual
+- Desenvolvimento de slide
 
 ### Verificação em 08/08
 
