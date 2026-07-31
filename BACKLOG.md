@@ -4,7 +4,7 @@
 > O backlog semanal vivo fica nas **Issues** do repositório.
 > Acesse: github.com/informaticaseed/[repo]/issues
 
----
+--- 
 
 ## 🎯 Objetivo do MVP
 
