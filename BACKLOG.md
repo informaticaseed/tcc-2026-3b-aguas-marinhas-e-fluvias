@@ -6,7 +6,7 @@
 
 --- 
 
-## 🎯 Objetivo do MVP
+## 🎯 Objetivo do MVP 
 
 (Descreva em 2-3 frases o que o MVP precisa entregar)
 
