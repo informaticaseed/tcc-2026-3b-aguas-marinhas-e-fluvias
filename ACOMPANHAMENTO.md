@@ -38,13 +38,16 @@ Backend:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 18/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| João  | Estudo do código, desenvolvimento do backend e banco sugestão (sugestão SQLite e Flask/Fast API utilizando claude no VSCode) |
+| Hanna | TCC impresso:  cronograma, levantamento de dados, levantamento dos requisitos, diagrama casos de uso e slide|
+| Murylo | Realizar entrevista, responsável pelo grupo, planejamento da apresentação do TCC no grupo, auxiliar impedimentos no grupo|
+| Mattheo | Comprar sensor Ph, display, iniciar a montagem|
+| Carlos |  =Auxiliar João e Mattheo no site e no protótipo|
+
 
 ### Verificação em 22/08
 
