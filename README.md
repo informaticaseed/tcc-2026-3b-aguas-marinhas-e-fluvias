@@ -7,7 +7,7 @@
  
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
+| (João Davi) | @username | 3B |
 | (nome 2) | @username | 3A |
 | (nome 3) | @username | 3A |
 
